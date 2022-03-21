@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Concordia App</string>
+    <string name="first_name">First Name</string>
+    <string name="first_name_hint">Enter First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Contact No.</string>
+    <string name="phone_hint">Enter Contact No.</string>
+    <string name="last_name_hint">Enter Last Name</string>
+    <string name="email">Email Address</string>
+    <string name="email_hint">Enter Email Address</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="login_btn">Login</string>
+    <string name="sing_up_btn">Sign Up</string>
+    <string name="home">Go to Home</string>
+</resources>
